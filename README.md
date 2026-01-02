@@ -8,10 +8,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harshit-mavi-928448397/">
-    <img src="https://img.shields.io/badge" alt="LinkedIn">
+    <img src="https://img.shields.io/linkedin" alt="LinkedIn">
   </a>
   <a href="https://x.com/itzharshitmavi?s=21">
-    <img src="https://img.shields.io" alt="Twitter">
+    <img src="https://img.shields.io/twitter" alt="Twitter">
   </a>
 </p>
 
