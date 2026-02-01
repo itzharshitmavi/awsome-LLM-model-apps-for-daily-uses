@@ -163,7 +163,7 @@ A curated collection of **Awesome LLM apps built with RAG, AI Agents, Multi-agen
 1. **Clone the repository** 
 
     ```bash 
-    git clone https://github.com/itzharshitmavi/LLM-models-for-daily-usage.git 
+    git clone https://github.com/itzharshitmavi/awsome-LLM-model-apps-for-daily-uses.git
     ```
 
 2. **Navigate to the desired project directory**
