@@ -1,0 +1,6 @@
+agno>=2.2.10
+streamlit
+qdrant-client
+openai
+pypdf
+duckduckgo-search
