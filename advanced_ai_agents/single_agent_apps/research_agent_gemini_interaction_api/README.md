@@ -103,4 +103,4 @@ streamlit run research_planner_executor_agent.py
 
 ## 📄 License
 
-Part of the [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps) collection.
+Part of the [Awesome LLM Apps](https://github.com/itzharshitmavi/awsome-LLM-model-apps-for-daily-uses.git) collection.
