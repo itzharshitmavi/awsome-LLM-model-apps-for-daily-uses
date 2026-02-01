@@ -40,7 +40,7 @@ Before anything else, Please get a free Gemini API Key provided by Google AI her
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
+   git clone https://github.com/itzharshitmavi/LLM-models-for-daily-usage.git
    cd advanced_ai_agents/single_agent_apps/ai_health_fitness_agent
    ```
 

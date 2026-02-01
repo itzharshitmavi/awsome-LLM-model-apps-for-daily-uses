@@ -21,7 +21,7 @@ You will need API keys for each external service:
 1. Clone the GitHub repository
 
 ```bash
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
+git clone https://github.com/itzharshitmavi/LLM-models-for-daily-usage.git
 ```
 2. Create and activate a virtual environment (optional but recommended).
 

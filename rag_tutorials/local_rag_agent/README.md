@@ -18,7 +18,7 @@ This application implements a Retrieval-Augmented Generation (RAG) system using 
 
 1. Clone the GitHub repository
 ```bash
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
+git clone https://github.com/itzharshitmavi/LLM-models-for-daily-usage.git
 ```
 
 2. Install the required dependencies:

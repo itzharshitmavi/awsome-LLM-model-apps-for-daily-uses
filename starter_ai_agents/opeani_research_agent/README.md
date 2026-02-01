@@ -17,7 +17,7 @@ A multi-agent research application built with OpenAI's Agents SDK and Streamlit.
 
 1. Clone the GitHub repository
 ```bash
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
+git clone https://github.com/itzharshitmavi/LLM-models-for-daily-usage.git
 cd awesome-llm-apps/ai_agent_tutorials/openai_researcher_agent
 ```
 

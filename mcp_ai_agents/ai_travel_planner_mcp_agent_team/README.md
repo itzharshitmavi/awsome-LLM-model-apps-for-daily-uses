@@ -55,7 +55,7 @@ A sophisticated Streamlit-based AI travel planning application that creates extr
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
+   git clone https://github.com/itzharshitmavi/LLM-models-for-daily-usage.git
    cd awesome-llm-apps/mcp_ai_agents/ai_travel_planner_mcp_agent_team
    ```
 

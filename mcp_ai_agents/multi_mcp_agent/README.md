@@ -38,7 +38,7 @@ Follow these steps to set up and run the application:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
+   git clone https://github.com/itzharshitmavi/LLM-models-for-daily-usage.git
    cd awesome-llm-apps/mcp_ai_agents/multi_mcp_agent
    ```
 

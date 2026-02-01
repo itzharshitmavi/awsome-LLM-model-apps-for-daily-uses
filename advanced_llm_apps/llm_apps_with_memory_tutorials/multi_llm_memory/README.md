@@ -16,7 +16,7 @@ This Streamlit application demonstrates a multi-LLM system with a shared memory 
 
 1. Clone the GitHub repository
 ```bash
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
+git clone https://github.com/itzharshitmavi/LLM-models-for-daily-usage.git
 cd awesome-llm-apps/llm_apps_with_memory_tutorials/multi_llm_memory
 ```
 

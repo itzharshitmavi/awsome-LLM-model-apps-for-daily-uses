@@ -37,7 +37,7 @@ An advanced web extraction and analysis tool built using Firecrawl's FIRE-1 agen
    ```bash
    # Clone the repository
 
-   git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
+   git clone https://github.com/itzharshitmavi/LLM-models-for-daily-usage.git
    cd advanced_ai_agents/single_agent_apps/ai_startup_insight_fire1_agent
    ```
 

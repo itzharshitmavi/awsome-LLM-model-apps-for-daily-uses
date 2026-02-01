@@ -14,7 +14,7 @@ This application creates a financial analysis agent powered by xAI's Grok model,
 
 1. Clone the GitHub repository
 ```bash
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
+git clone https://github.com/itzharshitmavi/LLM-models-for-daily-usage.git
 cd awesome-llm-apps/ai_agent_tutorials/xai_finance_agent
 ```
 

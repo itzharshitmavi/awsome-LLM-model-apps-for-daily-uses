@@ -36,7 +36,7 @@ Follow the steps below to set up and run the application:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
+   git clone https://github.com/itzharshitmavi/LLM-models-for-daily-usage.git
    cd advanced_ai_agents/multi_agent_apps/agent_teams/multimodal_coding_agent_team
    ```
 
